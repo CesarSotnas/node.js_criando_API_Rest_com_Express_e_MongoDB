@@ -5,8 +5,8 @@ Node.js é um software de código aberto, multiplataforma, baseado no interpreta
 Projeto da formação desenvolvedor back-end da Alura. Nesta formação foi visto como utilizar o Node.js em conjunto com o framework Express, um dos mais usados no mercado para desenvolvimento de APIs.
 
 Habilidades desenvolvidas:
-Criação de API do zero, seguindo o estilo arquitetural REST.
-Entendimento das requisições HTTP.
-Utilização do framework Express, para desenvolvimento de aplicações robustas e escaláveis.
-Conexão de API com um banco de dados MongoDB.
-Buscas por campos específicos na API.
+* Criação de API do zero, seguindo o estilo arquitetural REST.
+* Entendimento das requisições HTTP.
+* Utilização do framework Express, para desenvolvimento de aplicações robustas e escaláveis.
+* Conexão de API com um banco de dados MongoDB.
+* Buscas por campos específicos na API.
