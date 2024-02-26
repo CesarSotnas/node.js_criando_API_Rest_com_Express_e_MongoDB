@@ -1,7 +1,7 @@
 import express from "express";
 import db from "./config/dbConnect.js";
 import routes from "./config/routes/index.js";
-import manipuladorDeErros from "./middlewares/manipuladorDeErros.js";
+import manipuladorDeErros from "./config/middlewares/manipuladorDeErros.js";
 
 const conexao = db;
 
